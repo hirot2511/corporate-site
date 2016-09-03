@@ -275,9 +275,8 @@ h1 {
     font-size: 1.5rem;
     font-weight: bold;
     padding-bottom: 15px;
-    border-bottom: 3px solid #42b9d0; }
-    #contents #main h2 .company_title {
-      margin-bottom: 0px; }
+    border-bottom: 3px solid #42b9d0;
+    margin-bottom: 0px; }
   #contents #main .news_li {
     font-size: 15px;
     font-size: 1.5rem; }
